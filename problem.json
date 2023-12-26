@@ -1,0 +1,3360 @@
+[
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Merge Sorted Array",
+        "url": "https://leetcode.com/problems/merge-sorted-array/description/",
+        "sNo": 1,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Remove Element",
+        "url": "https://leetcode.com/problems/remove-element/description/",
+        "sNo": 2,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Remove Duplicates from Sorted Array",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/",
+        "sNo": 3,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Remove Duplicates from Sorted Array II",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/",
+        "sNo": 4,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Majority Element",
+        "url": "https://leetcode.com/problems/majority-element/description/",
+        "sNo": 5,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Counting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Rotate Array",
+        "url": "https://leetcode.com/problems/rotate-array/description/",
+        "sNo": 6,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Math",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Best Time to Buy and Sell Stock",
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/",
+        "sNo": 7,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Best Time to Buy and Sell Stock II",
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/",
+        "sNo": 8,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Jump Game",
+        "url": "https://leetcode.com/problems/jump-game/description/",
+        "sNo": 9,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Jump Game II",
+        "url": "https://leetcode.com/problems/jump-game-ii/description/",
+        "sNo": 10,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "H-Index",
+        "url": "https://leetcode.com/problems/h-index/description/",
+        "sNo": 11,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Sorting",
+            "Counting Sort"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Insert Delete GetRandom O(1)",
+        "url": "https://leetcode.com/problems/insert-delete-getrandom-o(1)/description/",
+        "sNo": 12,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Design",
+            "Randomized"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Product of Array Except Self",
+        "url": "https://leetcode.com/problems/product-of-array-except-self/description/",
+        "sNo": 13,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Prefix Sum"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Gas Station",
+        "url": "https://leetcode.com/problems/gas-station/description/",
+        "sNo": 14,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Greedy"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Candy",
+        "url": "https://leetcode.com/problems/candy/description/",
+        "sNo": 15,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "Greedy"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Trapping Rain Water",
+        "url": "https://leetcode.com/problems/trapping-rain-water/description/",
+        "sNo": 16,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Stack",
+            "Monotonic Stack"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Roman to Integer",
+        "url": "https://leetcode.com/problems/roman-to-integer/description/",
+        "sNo": 17,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Hash Table",
+            "Math",
+            "String"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Integer to Roman",
+        "url": "https://leetcode.com/problems/integer-to-roman/description/",
+        "sNo": 18,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "Math",
+            "String"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Length of Last Word",
+        "url": "https://leetcode.com/problems/length-of-last-word/description/",
+        "sNo": 19,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "String"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Longest Common Prefix",
+        "url": "https://leetcode.com/problems/longest-common-prefix/description/",
+        "sNo": 20,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "String",
+            "Trie"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75"
+        ],
+        "title": "Reverse Words in a String",
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string/description/",
+        "sNo": 21,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Two Pointers",
+            "String"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Zigzag Conversion",
+        "url": "https://leetcode.com/problems/zigzag-conversion/description/",
+        "sNo": 22,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Find the Index of the First Occurrence in a String",
+        "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/",
+        "sNo": 23,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Two Pointers",
+            "String",
+            "String Matching"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Text Justification",
+        "url": "https://leetcode.com/problems/text-justification/description/",
+        "sNo": 24,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "String",
+            "Simulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Valid Palindrome",
+        "url": "https://leetcode.com/problems/valid-palindrome/description/",
+        "sNo": 25,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Two Pointers",
+            "String"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75"
+        ],
+        "title": "Is Subsequence",
+        "url": "https://leetcode.com/problems/is-subsequence/description/",
+        "sNo": 26,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Two Sum II - Input Array Is Sorted",
+        "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/",
+        "sNo": 27,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers",
+            "Binary Search"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Container With Most Water",
+        "url": "https://leetcode.com/problems/container-with-most-water/description/",
+        "sNo": 28,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "3Sum",
+        "url": "https://leetcode.com/problems/3sum/description/",
+        "sNo": 29,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Minimum Size Subarray Sum",
+        "url": "https://leetcode.com/problems/minimum-size-subarray-sum/description/",
+        "sNo": 30,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Longest Substring Without Repeating Characters",
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/description/",
+        "sNo": 31,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Substring with Concatenation of All Words",
+        "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/",
+        "sNo": 32,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Minimum Window Substring",
+        "url": "https://leetcode.com/problems/minimum-window-substring/description/",
+        "sNo": 33,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Valid Sudoku",
+        "url": "https://leetcode.com/problems/valid-sudoku/description/",
+        "sNo": 34,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Spiral Matrix",
+        "url": "https://leetcode.com/problems/spiral-matrix/description/",
+        "sNo": 35,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Matrix",
+            "Simulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Rotate Image",
+        "url": "https://leetcode.com/problems/rotate-image/description/",
+        "sNo": 36,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Math",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Set Matrix Zeroes",
+        "url": "https://leetcode.com/problems/set-matrix-zeroes/description/",
+        "sNo": 37,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Game of Life",
+        "url": "https://leetcode.com/problems/game-of-life/description/",
+        "sNo": 38,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Matrix",
+            "Simulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Ransom Note",
+        "url": "https://leetcode.com/problems/ransom-note/description/",
+        "sNo": 39,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Hash Table",
+            "String",
+            "Counting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Isomorphic Strings",
+        "url": "https://leetcode.com/problems/isomorphic-strings/description/",
+        "sNo": 40,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Hash Table",
+            "String"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Word Pattern",
+        "url": "https://leetcode.com/problems/word-pattern/description/",
+        "sNo": 41,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Hash Table",
+            "String"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Valid Anagram",
+        "url": "https://leetcode.com/problems/valid-anagram/description/",
+        "sNo": 42,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Hash Table",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Group Anagrams",
+        "url": "https://leetcode.com/problems/group-anagrams/description/",
+        "sNo": 43,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Two Sum",
+        "url": "https://leetcode.com/problems/two-sum/description/",
+        "sNo": 44,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Hash Table"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Happy Number",
+        "url": "https://leetcode.com/problems/happy-number/description/",
+        "sNo": 45,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Hash Table",
+            "Math",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Contains Duplicate II",
+        "url": "https://leetcode.com/problems/contains-duplicate-ii/description/",
+        "sNo": 46,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Longest Consecutive Sequence",
+        "url": "https://leetcode.com/problems/longest-consecutive-sequence/description/",
+        "sNo": 47,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Union Find"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Summary Ranges",
+        "url": "https://leetcode.com/problems/summary-ranges/description/",
+        "sNo": 48,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Merge Intervals",
+        "url": "https://leetcode.com/problems/merge-intervals/description/",
+        "sNo": 49,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Sorting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Insert Interval",
+        "url": "https://leetcode.com/problems/insert-interval/description/",
+        "sNo": 50,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75"
+        ],
+        "title": "Minimum Number of Arrows to Burst Balloons",
+        "url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/",
+        "sNo": 51,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Greedy",
+            "Sorting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Valid Parentheses",
+        "url": "https://leetcode.com/problems/valid-parentheses/description/",
+        "sNo": 52,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "String",
+            "Stack"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Simplify Path",
+        "url": "https://leetcode.com/problems/simplify-path/description/",
+        "sNo": 53,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String",
+            "Stack"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Min Stack",
+        "url": "https://leetcode.com/problems/min-stack/description/",
+        "sNo": 54,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Stack",
+            "Design"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Evaluate Reverse Polish Notation",
+        "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/description/",
+        "sNo": 55,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Math",
+            "Stack"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Basic Calculator",
+        "url": "https://leetcode.com/problems/basic-calculator/description/",
+        "sNo": 56,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Math",
+            "String",
+            "Stack",
+            "Recursion"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Linked List Cycle",
+        "url": "https://leetcode.com/problems/linked-list-cycle/description/",
+        "sNo": 57,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Add Two Numbers",
+        "url": "https://leetcode.com/problems/add-two-numbers/description/",
+        "sNo": 58,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List",
+            "Math",
+            "Recursion"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Merge Two Sorted Lists",
+        "url": "https://leetcode.com/problems/merge-two-sorted-lists/description/",
+        "sNo": 59,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Linked List",
+            "Recursion"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Copy List with Random Pointer",
+        "url": "https://leetcode.com/problems/copy-list-with-random-pointer/description/",
+        "sNo": 60,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "Linked List"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Reverse Linked List II",
+        "url": "https://leetcode.com/problems/reverse-linked-list-ii/description/",
+        "sNo": 61,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Reverse Nodes in k-Group",
+        "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/description/",
+        "sNo": 62,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Linked List",
+            "Recursion"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Remove Nth Node From End of List",
+        "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/",
+        "sNo": 63,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Remove Duplicates from Sorted List II",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/",
+        "sNo": 64,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Rotate List",
+        "url": "https://leetcode.com/problems/rotate-list/description/",
+        "sNo": 65,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Partition List",
+        "url": "https://leetcode.com/problems/partition-list/description/",
+        "sNo": 66,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "LRU Cache",
+        "url": "https://leetcode.com/problems/lru-cache/description/",
+        "sNo": 67,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "Linked List",
+            "Design",
+            "Doubly-Linked List"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Maximum Depth of Binary Tree",
+        "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/",
+        "sNo": 68,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Same Tree",
+        "url": "https://leetcode.com/problems/same-tree/description/",
+        "sNo": 69,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Invert Binary Tree",
+        "url": "https://leetcode.com/problems/invert-binary-tree/description/",
+        "sNo": 70,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Symmetric Tree",
+        "url": "https://leetcode.com/problems/symmetric-tree/description/",
+        "sNo": 71,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/",
+        "sNo": 72,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+        "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/",
+        "sNo": 73,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Populating Next Right Pointers in Each Node II",
+        "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/",
+        "sNo": 74,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Flatten Binary Tree to Linked List",
+        "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/",
+        "sNo": 75,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List",
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Path Sum",
+        "url": "https://leetcode.com/problems/path-sum/description/",
+        "sNo": 76,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Sum Root to Leaf Numbers",
+        "url": "https://leetcode.com/problems/sum-root-to-leaf-numbers/description/",
+        "sNo": 77,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Binary Tree Maximum Path Sum",
+        "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/description/",
+        "sNo": 78,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Binary Search Tree Iterator",
+        "url": "https://leetcode.com/problems/binary-search-tree-iterator/description/",
+        "sNo": 79,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Stack",
+            "Tree",
+            "Design",
+            "Binary Search Tree",
+            "Binary Tree",
+            "Iterator"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Count Complete Tree Nodes",
+        "url": "https://leetcode.com/problems/count-complete-tree-nodes/description/",
+        "sNo": 80,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Binary Search",
+            "Bit Manipulation",
+            "Tree",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/",
+        "sNo": 81,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Binary Tree Right Side View",
+        "url": "https://leetcode.com/problems/binary-tree-right-side-view/description/",
+        "sNo": 82,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Average of Levels in Binary Tree",
+        "url": "https://leetcode.com/problems/average-of-levels-in-binary-tree/description/",
+        "sNo": 83,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Binary Tree Level Order Traversal",
+        "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/description/",
+        "sNo": 84,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/",
+        "sNo": 85,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Minimum Absolute Difference in BST",
+        "url": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/",
+        "sNo": 86,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Kth Smallest Element in a BST",
+        "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/",
+        "sNo": 87,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Validate Binary Search Tree",
+        "url": "https://leetcode.com/problems/validate-binary-search-tree/description/",
+        "sNo": 88,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Number of Islands",
+        "url": "https://leetcode.com/problems/number-of-islands/description/",
+        "sNo": 89,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union Find",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Surrounded Regions",
+        "url": "https://leetcode.com/problems/surrounded-regions/description/",
+        "sNo": 90,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union Find",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Clone Graph",
+        "url": "https://leetcode.com/problems/clone-graph/description/",
+        "sNo": 91,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75"
+        ],
+        "title": "Evaluate Division",
+        "url": "https://leetcode.com/problems/evaluate-division/description/",
+        "sNo": 92,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union Find",
+            "Graph",
+            "Shortest Path"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Course Schedule",
+        "url": "https://leetcode.com/problems/course-schedule/description/",
+        "sNo": 93,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph",
+            "Topological Sort"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Course Schedule II",
+        "url": "https://leetcode.com/problems/course-schedule-ii/description/",
+        "sNo": 94,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph",
+            "Topological Sort"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Snakes and Ladders",
+        "url": "https://leetcode.com/problems/snakes-and-ladders/description/",
+        "sNo": 95,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Breadth-First Search",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Minimum Genetic Mutation",
+        "url": "https://leetcode.com/problems/minimum-genetic-mutation/description/",
+        "sNo": 96,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "String",
+            "Breadth-First Search"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Word Ladder",
+        "url": "https://leetcode.com/problems/word-ladder/description/",
+        "sNo": 97,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Hash Table",
+            "String",
+            "Breadth-First Search"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Implement Trie (Prefix Tree)",
+        "url": "https://leetcode.com/problems/implement-trie-prefix-tree/description/",
+        "sNo": 98,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "String",
+            "Design",
+            "Trie"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Design Add and Search Words Data Structure",
+        "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/description/",
+        "sNo": 99,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String",
+            "Depth-First Search",
+            "Design",
+            "Trie"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Word Search II",
+        "url": "https://leetcode.com/problems/word-search-ii/description/",
+        "sNo": 100,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Trie",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Letter Combinations of a Phone Number",
+        "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/",
+        "sNo": 101,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "String",
+            "Backtracking"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Combinations",
+        "url": "https://leetcode.com/problems/combinations/description/",
+        "sNo": 102,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Backtracking"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Permutations",
+        "url": "https://leetcode.com/problems/permutations/description/",
+        "sNo": 103,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Backtracking"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Combination Sum",
+        "url": "https://leetcode.com/problems/combination-sum/description/",
+        "sNo": 104,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Backtracking"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "N-Queens II",
+        "url": "https://leetcode.com/problems/n-queens-ii/description/",
+        "sNo": 105,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Backtracking"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Generate Parentheses",
+        "url": "https://leetcode.com/problems/generate-parentheses/description/",
+        "sNo": 106,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Word Search",
+        "url": "https://leetcode.com/problems/word-search/description/",
+        "sNo": 107,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Backtracking",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Convert Sorted Array to Binary Search Tree",
+        "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/",
+        "sNo": 108,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Sort List",
+        "url": "https://leetcode.com/problems/sort-list/description/",
+        "sNo": 109,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List",
+            "Two Pointers",
+            "Divide and Conquer",
+            "Sorting",
+            "Merge Sort"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Construct Quad Tree",
+        "url": "https://leetcode.com/problems/construct-quad-tree/description/",
+        "sNo": 110,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Divide and Conquer",
+            "Tree",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Merge k Sorted Lists",
+        "url": "https://leetcode.com/problems/merge-k-sorted-lists/description/",
+        "sNo": 111,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Linked List",
+            "Divide and Conquer",
+            "Heap (Priority Queue)",
+            "Merge Sort"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Maximum Subarray",
+        "url": "https://leetcode.com/problems/maximum-subarray/description/",
+        "sNo": 112,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Maximum Sum Circular Subarray",
+        "url": "https://leetcode.com/problems/maximum-sum-circular-subarray/description/",
+        "sNo": 113,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming",
+            "Queue",
+            "Monotonic Queue"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Search Insert Position",
+        "url": "https://leetcode.com/problems/search-insert-position/description/",
+        "sNo": 114,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Binary Search"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Search a 2D Matrix",
+        "url": "https://leetcode.com/problems/search-a-2d-matrix/description/",
+        "sNo": 115,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75"
+        ],
+        "title": "Find Peak Element",
+        "url": "https://leetcode.com/problems/find-peak-element/description/",
+        "sNo": 116,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Binary Search"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Search in Rotated Sorted Array",
+        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/description/",
+        "sNo": 117,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Binary Search"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/",
+        "sNo": 118,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Binary Search"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Find Minimum in Rotated Sorted Array",
+        "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/",
+        "sNo": 119,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Binary Search"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Median of Two Sorted Arrays",
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/description/",
+        "sNo": 120,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Kth Largest Element in an Array",
+        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/description/",
+        "sNo": 121,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Divide and Conquer",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Quickselect"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "IPO",
+        "url": "https://leetcode.com/problems/ipo/description/",
+        "sNo": 122,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Heap (Priority Queue)"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Find K Pairs with Smallest Sums",
+        "url": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/",
+        "sNo": 123,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Heap (Priority Queue)"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Find Median from Data Stream",
+        "url": "https://leetcode.com/problems/find-median-from-data-stream/description/",
+        "sNo": 124,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Two Pointers",
+            "Design",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Data Stream"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Add Binary",
+        "url": "https://leetcode.com/problems/add-binary/description/",
+        "sNo": 125,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Math",
+            "String",
+            "Bit Manipulation",
+            "Simulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Reverse Bits",
+        "url": "https://leetcode.com/problems/reverse-bits/description/",
+        "sNo": 126,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Divide and Conquer",
+            "Bit Manipulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Number of 1 Bits",
+        "url": "https://leetcode.com/problems/number-of-1-bits/description/",
+        "sNo": 127,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Divide and Conquer",
+            "Bit Manipulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Single Number",
+        "url": "https://leetcode.com/problems/single-number/description/",
+        "sNo": 128,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Bit Manipulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Single Number II",
+        "url": "https://leetcode.com/problems/single-number-ii/description/",
+        "sNo": 129,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Bit Manipulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Bitwise AND of Numbers Range",
+        "url": "https://leetcode.com/problems/bitwise-and-of-numbers-range/description/",
+        "sNo": 130,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Bit Manipulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Palindrome Number",
+        "url": "https://leetcode.com/problems/palindrome-number/description/",
+        "sNo": 131,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Math"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Plus One",
+        "url": "https://leetcode.com/problems/plus-one/description/",
+        "sNo": 132,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Math"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Factorial Trailing Zeroes",
+        "url": "https://leetcode.com/problems/factorial-trailing-zeroes/description/",
+        "sNo": 133,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Math"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Sqrt(x)",
+        "url": "https://leetcode.com/problems/sqrtx/description/",
+        "sNo": 134,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Math",
+            "Binary Search"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Pow(x, n)",
+        "url": "https://leetcode.com/problems/powx-n/description/",
+        "sNo": 135,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Math",
+            "Recursion"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Max Points on a Line",
+        "url": "https://leetcode.com/problems/max-points-on-a-line/description/",
+        "sNo": 136,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Geometry"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Climbing Stairs",
+        "url": "https://leetcode.com/problems/climbing-stairs/description/",
+        "sNo": 137,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Math",
+            "Dynamic Programming",
+            "Memoization"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "House Robber",
+        "url": "https://leetcode.com/problems/house-robber/description/",
+        "sNo": 138,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Word Break",
+        "url": "https://leetcode.com/problems/word-break/description/",
+        "sNo": 139,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Trie",
+            "Memoization"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Coin Change",
+        "url": "https://leetcode.com/problems/coin-change/description/",
+        "sNo": 140,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming",
+            "Breadth-First Search"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Longest Increasing Subsequence",
+        "url": "https://leetcode.com/problems/longest-increasing-subsequence/description/",
+        "sNo": 141,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Binary Search",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Triangle",
+        "url": "https://leetcode.com/problems/triangle/description/",
+        "sNo": 142,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Minimum Path Sum",
+        "url": "https://leetcode.com/problems/minimum-path-sum/description/",
+        "sNo": 143,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Unique Paths II",
+        "url": "https://leetcode.com/problems/unique-paths-ii/description/",
+        "sNo": 144,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Top 100 Liked"
+        ],
+        "title": "Longest Palindromic Substring",
+        "url": "https://leetcode.com/problems/longest-palindromic-substring/description/",
+        "sNo": 145,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Interleaving String",
+        "url": "https://leetcode.com/problems/interleaving-string/description/",
+        "sNo": 146,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150",
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Edit Distance",
+        "url": "https://leetcode.com/problems/edit-distance/description/",
+        "sNo": 147,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Best Time to Buy and Sell Stock III",
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
+        "sNo": 148,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Best Time to Buy and Sell Stock IV",
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/",
+        "sNo": 149,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top Interview 150"
+        ],
+        "title": "Maximal Square",
+        "url": "https://leetcode.com/problems/maximal-square/description/",
+        "sNo": 150,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Merge Strings Alternately",
+        "url": "https://leetcode.com/problems/merge-strings-alternately/description/",
+        "sNo": 151,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Two Pointers",
+            "String"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Greatest Common Divisor of Strings",
+        "url": "https://leetcode.com/problems/greatest-common-divisor-of-strings/description/",
+        "sNo": 152,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Math",
+            "String"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Kids With the Greatest Number of Candies",
+        "url": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/",
+        "sNo": 153,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Can Place Flowers",
+        "url": "https://leetcode.com/problems/can-place-flowers/description/",
+        "sNo": 154,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Greedy"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Reverse Vowels of a String",
+        "url": "https://leetcode.com/problems/reverse-vowels-of-a-string/description/",
+        "sNo": 155,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Two Pointers",
+            "String"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Increasing Triplet Subsequence",
+        "url": "https://leetcode.com/problems/increasing-triplet-subsequence/description/",
+        "sNo": 156,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Greedy"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "String Compression",
+        "url": "https://leetcode.com/problems/string-compression/description/",
+        "sNo": 157,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Two Pointers",
+            "String"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Move Zeroes",
+        "url": "https://leetcode.com/problems/move-zeroes/description/",
+        "sNo": 158,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Max Number of K-Sum Pairs",
+        "url": "https://leetcode.com/problems/max-number-of-k-sum-pairs/description/",
+        "sNo": 159,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Sorting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Maximum Average Subarray I",
+        "url": "https://leetcode.com/problems/maximum-average-subarray-i/description/",
+        "sNo": 160,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Sliding Window"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Maximum Number of Vowels in a Substring of Given Length",
+        "url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/",
+        "sNo": 161,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String",
+            "Sliding Window"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Max Consecutive Ones III",
+        "url": "https://leetcode.com/problems/max-consecutive-ones-iii/description/",
+        "sNo": 162,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Longest Subarray of 1's After Deleting One Element",
+        "url": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/",
+        "sNo": 163,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming",
+            "Sliding Window"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Find the Highest Altitude",
+        "url": "https://leetcode.com/problems/find-the-highest-altitude/description/",
+        "sNo": 164,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Prefix Sum"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Find Pivot Index",
+        "url": "https://leetcode.com/problems/find-pivot-index/description/",
+        "sNo": 165,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Prefix Sum"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Find the Difference of Two Arrays",
+        "url": "https://leetcode.com/problems/find-the-difference-of-two-arrays/description/",
+        "sNo": 166,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Hash Table"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Unique Number of Occurrences",
+        "url": "https://leetcode.com/problems/unique-number-of-occurrences/description/",
+        "sNo": 167,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Hash Table"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Determine if Two Strings Are Close",
+        "url": "https://leetcode.com/problems/determine-if-two-strings-are-close/description/",
+        "sNo": 168,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "String",
+            "Sorting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Equal Row and Column Pairs",
+        "url": "https://leetcode.com/problems/equal-row-and-column-pairs/description/",
+        "sNo": 169,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Matrix",
+            "Simulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Removing Stars From a String",
+        "url": "https://leetcode.com/problems/removing-stars-from-a-string/description/",
+        "sNo": 170,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String",
+            "Stack",
+            "Simulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Asteroid Collision",
+        "url": "https://leetcode.com/problems/asteroid-collision/description/",
+        "sNo": 171,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Stack",
+            "Simulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Decode String",
+        "url": "https://leetcode.com/problems/decode-string/description/",
+        "sNo": 172,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String",
+            "Stack",
+            "Recursion"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Number of Recent Calls",
+        "url": "https://leetcode.com/problems/number-of-recent-calls/description/",
+        "sNo": 173,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Design",
+            "Queue",
+            "Data Stream"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Dota2 Senate",
+        "url": "https://leetcode.com/problems/dota2-senate/description/",
+        "sNo": 174,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String",
+            "Greedy",
+            "Queue"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Delete the Middle Node of a Linked List",
+        "url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/",
+        "sNo": 175,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Odd Even Linked List",
+        "url": "https://leetcode.com/problems/odd-even-linked-list/description/",
+        "sNo": 176,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Reverse Linked List",
+        "url": "https://leetcode.com/problems/reverse-linked-list/description/",
+        "sNo": 177,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Linked List",
+            "Recursion"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Maximum Twin Sum of a Linked List",
+        "url": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/",
+        "sNo": 178,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List",
+            "Two Pointers",
+            "Stack"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Leaf-Similar Trees",
+        "url": "https://leetcode.com/problems/leaf-similar-trees/description/",
+        "sNo": 179,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Count Good Nodes in Binary Tree",
+        "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/",
+        "sNo": 180,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Path Sum III",
+        "url": "https://leetcode.com/problems/path-sum-iii/description/",
+        "sNo": 181,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Longest ZigZag Path in a Binary Tree",
+        "url": "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/",
+        "sNo": 182,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Maximum Level Sum of a Binary Tree",
+        "url": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/",
+        "sNo": 183,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Search in a Binary Search Tree",
+        "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/description/",
+        "sNo": 184,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Delete Node in a BST",
+        "url": "https://leetcode.com/problems/delete-node-in-a-bst/description/",
+        "sNo": 185,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Keys and Rooms",
+        "url": "https://leetcode.com/problems/keys-and-rooms/description/",
+        "sNo": 186,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Number of Provinces",
+        "url": "https://leetcode.com/problems/number-of-provinces/description/",
+        "sNo": 187,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union Find",
+            "Graph"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+        "url": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/",
+        "sNo": 188,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Nearest Exit from Entrance in Maze",
+        "url": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/",
+        "sNo": 189,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Breadth-First Search",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Rotting Oranges",
+        "url": "https://leetcode.com/problems/rotting-oranges/description/",
+        "sNo": 190,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Breadth-First Search",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Smallest Number in Infinite Set",
+        "url": "https://leetcode.com/problems/smallest-number-in-infinite-set/description/",
+        "sNo": 191,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "Design",
+            "Heap (Priority Queue)"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Maximum Subsequence Score",
+        "url": "https://leetcode.com/problems/maximum-subsequence-score/description/",
+        "sNo": 192,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Heap (Priority Queue)"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Total Cost to Hire K Workers",
+        "url": "https://leetcode.com/problems/total-cost-to-hire-k-workers/description/",
+        "sNo": 193,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers",
+            "Heap (Priority Queue)",
+            "Simulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Guess Number Higher or Lower",
+        "url": "https://leetcode.com/problems/guess-number-higher-or-lower/description/",
+        "sNo": 194,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Binary Search",
+            "Interactive"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Successful Pairs of Spells and Potions",
+        "url": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/",
+        "sNo": 195,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Koko Eating Bananas",
+        "url": "https://leetcode.com/problems/koko-eating-bananas/description/",
+        "sNo": 196,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Binary Search"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Combination Sum III",
+        "url": "https://leetcode.com/problems/combination-sum-iii/description/",
+        "sNo": 197,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Backtracking"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "N-th Tribonacci Number",
+        "url": "https://leetcode.com/problems/n-th-tribonacci-number/description/",
+        "sNo": 198,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Math",
+            "Dynamic Programming",
+            "Memoization"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Min Cost Climbing Stairs",
+        "url": "https://leetcode.com/problems/min-cost-climbing-stairs/description/",
+        "sNo": 199,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Domino and Tromino Tiling",
+        "url": "https://leetcode.com/problems/domino-and-tromino-tiling/description/",
+        "sNo": 200,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Unique Paths",
+        "url": "https://leetcode.com/problems/unique-paths/description/",
+        "sNo": 201,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Math",
+            "Dynamic Programming",
+            "Combinatorics"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Longest Common Subsequence",
+        "url": "https://leetcode.com/problems/longest-common-subsequence/description/",
+        "sNo": 202,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/",
+        "sNo": 203,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Counting Bits",
+        "url": "https://leetcode.com/problems/counting-bits/description/",
+        "sNo": 204,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Dynamic Programming",
+            "Bit Manipulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Minimum Flips to Make a OR b Equal to c",
+        "url": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/",
+        "sNo": 205,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Bit Manipulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Search Suggestions System",
+        "url": "https://leetcode.com/problems/search-suggestions-system/description/",
+        "sNo": 206,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "String",
+            "Binary Search",
+            "Trie",
+            "Sorting",
+            "Heap (Priority Queue)"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Non-overlapping Intervals",
+        "url": "https://leetcode.com/problems/non-overlapping-intervals/description/",
+        "sNo": 207,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy",
+            "Sorting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75",
+            "Top 100 Liked"
+        ],
+        "title": "Daily Temperatures",
+        "url": "https://leetcode.com/problems/daily-temperatures/description/",
+        "sNo": 208,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Leetcode 75"
+        ],
+        "title": "Online Stock Span",
+        "url": "https://leetcode.com/problems/online-stock-span/description/",
+        "sNo": 209,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Stack",
+            "Design",
+            "Monotonic Stack",
+            "Data Stream"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "N-Queens",
+        "url": "https://leetcode.com/problems/n-queens/description/",
+        "sNo": 210,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "Backtracking"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Subsets",
+        "url": "https://leetcode.com/problems/subsets/description/",
+        "sNo": 211,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Palindrome Partitioning",
+        "url": "https://leetcode.com/problems/palindrome-partitioning/description/",
+        "sNo": 212,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Binary Tree Inorder Traversal",
+        "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/description/",
+        "sNo": 213,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Diameter of Binary Tree",
+        "url": "https://leetcode.com/problems/diameter-of-binary-tree/description/",
+        "sNo": 214,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Longest Valid Parentheses",
+        "url": "https://leetcode.com/problems/longest-valid-parentheses/description/",
+        "sNo": 215,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "String",
+            "Dynamic Programming",
+            "Stack"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Pascal's Triangle",
+        "url": "https://leetcode.com/problems/pascals-triangle/description/",
+        "sNo": 216,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Maximum Product Subarray",
+        "url": "https://leetcode.com/problems/maximum-product-subarray/description/",
+        "sNo": 217,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Perfect Squares",
+        "url": "https://leetcode.com/problems/perfect-squares/description/",
+        "sNo": 218,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Math",
+            "Dynamic Programming",
+            "Breadth-First Search"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Partition Equal Subset Sum",
+        "url": "https://leetcode.com/problems/partition-equal-subset-sum/description/",
+        "sNo": 219,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Dynamic Programming"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Partition Labels",
+        "url": "https://leetcode.com/problems/partition-labels/description/",
+        "sNo": 220,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Greedy"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Subarray Sum Equals K",
+        "url": "https://leetcode.com/problems/subarray-sum-equals-k/description/",
+        "sNo": 221,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Top K Frequent Elements",
+        "url": "https://leetcode.com/problems/top-k-frequent-elements/description/",
+        "sNo": 222,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting",
+            "Quickselect"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Swap Nodes in Pairs",
+        "url": "https://leetcode.com/problems/swap-nodes-in-pairs/description/",
+        "sNo": 223,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Linked List",
+            "Recursion"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Linked List Cycle II",
+        "url": "https://leetcode.com/problems/linked-list-cycle-ii/description/",
+        "sNo": 224,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Intersection of Two Linked Lists",
+        "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/description/",
+        "sNo": 225,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Palindrome Linked List",
+        "url": "https://leetcode.com/problems/palindrome-linked-list/description/",
+        "sNo": 226,
+        "difficulty": "Easy",
+        "relatedTopics": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Search a 2D Matrix II",
+        "url": "https://leetcode.com/problems/search-a-2d-matrix-ii/description/",
+        "sNo": 227,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer",
+            "Matrix"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Sliding Window Maximum",
+        "url": "https://leetcode.com/problems/sliding-window-maximum/description/",
+        "sNo": 228,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "Queue",
+            "Sliding Window",
+            "Heap (Priority Queue)",
+            "Monotonic Queue"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Find All Anagrams in a String",
+        "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/description/",
+        "sNo": 229,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Largest Rectangle in Histogram",
+        "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/description/",
+        "sNo": 230,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Next Permutation",
+        "url": "https://leetcode.com/problems/next-permutation/description/",
+        "sNo": 231,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "First Missing Positive",
+        "url": "https://leetcode.com/problems/first-missing-positive/description/",
+        "sNo": 232,
+        "difficulty": "Hard",
+        "relatedTopics": [
+            "Array",
+            "Hash Table"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Sort Colors",
+        "url": "https://leetcode.com/problems/sort-colors/description/",
+        "sNo": 233,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+        ]
+    },
+    {
+        "studyPlans": [
+            "Top 100 Liked"
+        ],
+        "title": "Find the Duplicate Number",
+        "url": "https://leetcode.com/problems/find-the-duplicate-number/description/",
+        "sNo": 234,
+        "difficulty": "Medium",
+        "relatedTopics": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Bit Manipulation"
+        ]
+    }
+]
